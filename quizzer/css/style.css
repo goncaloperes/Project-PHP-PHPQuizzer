@@ -1,0 +1,144 @@
+body{
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+
+li{
+    list-style: none;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+label{
+    display: inline-block;
+    width: 180px;
+}
+
+
+input[type='text']{
+    width: 97%;
+    padding: 4px;
+    border-radius: 5px;
+    border: 1px #cccccc solid;
+}
+
+
+input[type='number']{
+    width: 50px;
+    padding: 4px;
+    border-radius: 5px;
+    border: 1px #cccccc solid;
+}
+
+
+.container{
+    width: 60%;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+
+header{
+    border-bottom: 3px whitesmoke solid;
+}
+
+
+footer{
+    border-top: 3px whitesmoke solid;
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+main{
+    padding-bottom: 20px;
+}
+
+
+a.start{
+    display: inline-block;
+    border-radius: 4px;
+    background-color: seagreen;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+a.start span{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+a.start span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+a.start:hover span {
+    padding-right: 25px;
+}
+
+a.start:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+
+.current{
+    padding: 10px;
+    background: whitesmoke;
+    border: #cccccc dotted 1px;
+    margin: 20px 0 10px 0;
+}
+
+
+.try-again{
+    background-color: white;
+    border: 2px solid #008CBA;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.try-again:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+
+a.app-name{
+    color: black;
+}
+
+
+
+@media only screen and (max-width: 960px){
+    .container{
+        width: 80%;
+    }
+}
