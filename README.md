@@ -1,4 +1,8 @@
 # [PHP Quizzer](https://github.com/goncaloperes/Project-PHP-PHPQuizzer)
+[![GitHub Watches](https://img.shields.io/github/watchers/goncaloperes/Project-PHP-PHPQuizzer.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/goncaloperes/Project-PHP-PHPQuizzer/watchers)
+[![GitHub Starts](https://img.shields.io/github/stars/goncaloperes/Project-PHP-PHPQuizzer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/goncaloperes/Project-PHP-PHPQuizzer/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/goncaloperes/Project-PHP-PHPQuizzer.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/goncaloperes/Project-PHP-PHPQuizzer/network)
+
 ![](https://img.shields.io/badge/Version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/License-MIT-green.svg)
 
