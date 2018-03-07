@@ -1,4 +1,6 @@
 # [PHP Quizzer](https://github.com/goncaloperes/Project-PHP-PHPQuizzer)
+![](https://img.shields.io/badge/Version-1.0-blue.svg) 
+![](https://img.shields.io/badge/License-MIT-green.svg)
 
 <table>
 <tr>
@@ -8,9 +10,6 @@ Simple PHP/MySQL based quiz engine.
 </td>
 </tr>
 </table>
-
-### Version
-1.0
 
 
 ---
