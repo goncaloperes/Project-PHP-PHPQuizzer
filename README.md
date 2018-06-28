@@ -71,7 +71,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-![Gonçalo Peres](https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqTAAAAJDBlZTE3MmI0LWNmNjgtNDM3MS1iMzRmLTI0ZGQ1MGRlMWE1Yw.jpg)  | [![Goncalo Peres.com]()](https://goncaloperes.com/)
+![Gonçalo Peres](https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqTAAAAJDBlZTE3MmI0LWNmNjgtNDM3MS1iMzRmLTI0ZGQ1MGRlMWE1Yw.jpg)  | [![Goncalo Peres.com](https://media.licdn.com/dms/image/C4D0BAQG-4uKIHXTqFA/company-logo_200_200/0?e=2129500800&v=beta&t=Mn-TfL5EthVcWGFVK1bt0cnA9JG1vH0iHAYnC4WGex4)](https://goncaloperes.com/)
 ---|---
 [Gonçalo Peres](https://github.com/goncaloperes) |[Official Site](https://goncaloperes.com)
 
